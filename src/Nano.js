@@ -7,7 +7,7 @@ const Greater = (props) => {
     }
     return (
         <>
-            <div className="col-lg-4 w-100" style={{background:'green'}}>
+            <div className="col-lg-4" style={{background:'green'}}>
                 <div class="card" style={{ width: '18rem' }}>
                     <img src={props.image} class="card-img-top" alt="..." style={{height:'250px'}} />
                     <div class="card-body">
